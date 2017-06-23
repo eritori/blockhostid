@@ -5,7 +5,7 @@ Script ini dapat membantu anda dalam bypass semua konten website dari portal pro
 Copy file hosts ke C:/Windows/System32/drivers/etc
 
 # Peringatan
-Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin request silahkan tulis di Issues, web dengan konten eksplisit tidak diizinkan.
+Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin request silahkan tulis di Issues, web dengan konten eksplisit berlebihan tidak akan saya kerjakan. Terima Kasih.
 
 # List of supported sites:
 - Kbagi.com
