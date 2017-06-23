@@ -21,8 +21,16 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Rarbg.to
 - Eztv.ag
 - Isohunt.to
+- 4chan.org
 
 # Changelog
+**v6** Added some sites
+- 4chan.org
+
+```
+Still have bugs
+```
+
 **v5** Bug fix
 
 Fixed bug on Reddit, added some link but the bugs still exist.
