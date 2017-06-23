@@ -14,8 +14,16 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Vimeo.com
 - Thepiratebay.org
 - Yts.ag
+- Hitomi.la
+- Nhentai.net
+- Gelbooru.com
 
 # Changelog
+**v3** Added some sites
+- Hitomi.la
+- Nhentai.net
+- Gelbooru.com
+
 **v2** Added some sites
 - Thepiratebay.org
 - Yts.ag
