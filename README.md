@@ -23,7 +23,7 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Isohunt.to
 
 # Changelog
-**v4** Bug fix
+**v5** Bug fix
 
 Fixed bug on Reddit, added some link but the bugs still exist.
 
