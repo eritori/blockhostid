@@ -9,7 +9,7 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 
 # List of supported sites:
 - Kbagi.com
-- Openload.com
+- Openload.co
 - Reddit.com
 - Vimeo.com
 - Thepiratebay.org
@@ -40,6 +40,6 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 
 **v1** Added some sites
 - Kbagi.com
-- Openload.com
+- Openload.co
 - Reddit.com
 - Vimeo.com
