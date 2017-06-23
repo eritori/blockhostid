@@ -17,14 +17,10 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 
 # Changelog
 **v2**
-
-Added 2 more sites
 - Thepiratebay.org
 - Yts.ag
 
 **v1**
-
-Added some sites:
 - Kbagi.com
 - Openload.com
 - Reddit.com
