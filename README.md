@@ -17,8 +17,18 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Hitomi.la
 - Nhentai.net
 - Gelbooru.com
+- Omegle.com
+- Rarbg.to
+- Eztv.ag
+- Isohunt.to
 
 # Changelog
+**v4** Added some sites
+- Omegle.com
+- Rarbg.to
+- Eztv.ag
+- Isohunt.to
+
 **v3** Added some sites
 - Hitomi.la
 - Nhentai.net
