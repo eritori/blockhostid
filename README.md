@@ -16,11 +16,11 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Yts.ag
 
 # Changelog
-**v2**
+**v2** Added some sites
 - Thepiratebay.org
 - Yts.ag
 
-**v1**
+**v1** Added some sites
 - Kbagi.com
 - Openload.com
 - Reddit.com
