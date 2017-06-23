@@ -23,6 +23,18 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Isohunt.to
 
 # Changelog
+**v4** Bug fix
+
+Fixed bug on Reddit, added some link but the bugs still exist.
+
+```
+List of bugs:
+
+out.reddit.com
+oauth.reddit.com
+ssl.reddit.com
+```
+
 **v4** Added some sites
 - Omegle.com
 - Rarbg.to
