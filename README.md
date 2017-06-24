@@ -32,8 +32,12 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Eztv.ag
 - Isohunt.to
 - 4chan.org
+- Hentaihaven.org
 
 # Changelog
+**v6** Added some sites
+- Hentaihaven.org
+
 **v7** Bug fix
 
 Fixed bug on Hitomi.la, added some ip.
