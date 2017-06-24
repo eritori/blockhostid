@@ -33,10 +33,12 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Isohunt.to
 - 4chan.org
 - Hentaihaven.org
+- Pornhub.com
 
 # Changelog
-**v6** Added some sites
+**v8** Added some sites
 - Hentaihaven.org
+- Pornhub.com
 
 **v7** Bug fix
 
