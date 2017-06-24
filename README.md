@@ -31,6 +31,12 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 Still have bugs
 ```
 
+Added alternative ip
+
+```
+88.80.20.11 hitomi.la
+```
+
 **v5** Bug fix
 
 Fixed bug on Reddit, added some link but the bugs still exist.
