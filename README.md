@@ -24,6 +24,10 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - 4chan.org
 
 # Changelog
+**v7** Bug fix
+
+Fixed bug on Hitomi.la, added some ip.
+
 **v6** Added some sites
 - 4chan.org
 
@@ -39,7 +43,7 @@ Added alternative ip
 
 **v5** Bug fix
 
-Fixed bug on Reddit, added some link but the bugs still exist.
+Fixed bug on Reddit.com, added some ip but the bugs still exist.
 
 ```
 List of bugs:
