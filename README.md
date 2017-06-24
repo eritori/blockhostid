@@ -12,7 +12,7 @@ Copy file hosts ke C:/Windows/System32/drivers/etc kemudian replace.
 
 Drag file hosts ke "Paste hosts file here" lalu kemudian replace.
 
-File hosts berhasil diinstall, silahkan cek dengan cara membuka website yang ada di daftar.
+File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka website yang ada di daftar.
 
 # Peringatan
 Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin request silahkan tulis di Issues, web dengan konten eksplisit berlebihan tidak akan saya kerjakan. Terima Kasih.
@@ -34,8 +34,24 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - 4chan.org
 - Hentaihaven.org
 - Pornhub.com
+- Tbib.org
+- Xhamster.com
+- Javfor.me
+- Javfind.com
+- Bejav.net
+- Akiba-online.com
+- R18.com
 
 # Changelog
+**v9** Added some sites
+- Tbib.org
+- Xhamster.com
+- Javfor.me
+- Javfind.com
+- Bejav.net
+- Akiba-online.com
+- R18.com
+
 **v8** Added some sites
 - Hentaihaven.org
 - Pornhub.com
