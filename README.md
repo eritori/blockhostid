@@ -1,5 +1,5 @@
 # BlockHostID
-Script ini dapat membantu anda dalam bypass semua konten website dari portal provider seperti Internet Positif melalui file hosts pada windows tanpa vpn.
+Script ini dapat membantu anda untuk bypass semua konten website yang diblokir Internet Positif melalui file hosts tanpa vpn.
 
 # Cara Install
 Sebelumnya, download filenya dulu melalui link ini https://github.com/apkcube/blockhostid/archive/master.zip, kemudian lanjut cara dibawah.
