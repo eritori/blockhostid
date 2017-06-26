@@ -4,6 +4,8 @@ Script ini dapat membantu anda dalam bypass semua konten website dari portal pro
 # Cara Install
 Sebelumnya, download filenya dulu melalui link ini https://github.com/apkcube/blockhostid/archive/master.zip, kemudian lanjut cara dibawah.
 
+## PC
+
 ### Cara Sulit
 
 Copy file hosts ke C:/Windows/System32/drivers/etc kemudian replace.
@@ -11,6 +13,24 @@ Copy file hosts ke C:/Windows/System32/drivers/etc kemudian replace.
 ### Cara Mudah
 
 Drag file hosts ke "Paste hosts file here" lalu kemudian replace.
+
+File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka website yang ada di daftar.
+
+## Android
+
+#**Root Only**#
+
+Sebelumnya, download filenya dulu melalui link ini https://github.com/apkcube/blockhostid/archive/master.zip.
+
+Rename file hosts (Android) menjadi hosts saja.
+
+Kemudian copy file.
+
+Buka folder /etc dan paste.
+
+Akan ada peringatan replace, pilih replace.
+
+Restart hp.
 
 File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka website yang ada di daftar.
 
