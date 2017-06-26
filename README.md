@@ -41,6 +41,7 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Bejav.net
 - Akiba-online.com
 - R18.com
+- Danbooru.donmai.us
 
 # Changelog
 **v9** Added some sites
@@ -51,6 +52,7 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Bejav.net
 - Akiba-online.com
 - R18.com
+- Danbooru.donmai.us
 
 **v8** Added some sites
 - Hentaihaven.org
