@@ -63,6 +63,8 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Bromo.com
 - Hentai2read.com
 - Vipergirls.to
+- Fakku.net
+- E-hentai.org
 
 # Changelog
 **v10** Added some sites
