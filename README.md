@@ -20,8 +20,6 @@ File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka we
 
 #**Root Only**#
 
-Sebelumnya, download filenya dulu melalui link ini https://github.com/apkcube/blockhostid/archive/master.zip.
-
 Rename file hosts (Android) menjadi hosts saja.
 
 Kemudian copy file.
