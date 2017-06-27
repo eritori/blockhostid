@@ -62,8 +62,16 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Akiba-online.com
 - R18.com
 - Danbooru.donmai.us
+- Bromo.com
+- Hentai2read.com
+- Vipergirls.to
 
 # Changelog
+**v10** Added some sites
+- Bromo.com
+- Hentai2read.com
+- Vipergirls.to
+
 **v9** Added some sites
 - Tbib.org
 - Xhamster.com
