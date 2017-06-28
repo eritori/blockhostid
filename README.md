@@ -82,7 +82,7 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Javlibrary.com
 
 ```
-Bux fixed
+Bug fixed
 
 103.254.145.213 pics.r18.com
 52.222.163.39 awspv3001.r18.com
