@@ -65,8 +65,72 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Vipergirls.to
 - Fakku.net
 - E-hentai.org
+- Xvideos.com
+- Xnxx.com
+- Sankakucomplex.com
+- Paheal.net
+- Pron.tv
+- Spankbang.com
 
 # Changelog
+**v11** Added some sites
+- Xvideos.com
+- Xnxx.com
+- Sankakucomplex.com
+- Paheal.net
+- Pron.tv
+- Spankbang.com
+
+```
+List of bugs:
+
+[BUG] Spankbang.com
+
+104.31.15.163 th.spankbang.com
+104.31.15.163 static.spankbang.com
+104.31.15.163 nl.spankbang.com
+104.31.14.163 fr.spankbang.com
+104.31.15.163 jp.spankbang.com
+104.31.15.163 ms.spankbang.com
+104.31.15.163 la.spankbang.com
+104.31.14.163 es.spankbang.com
+192.99.63.182 cdnthumb.spankbang.com
+104.31.14.163 spankbang.com
+104.31.15.163 tr.spankbang.com
+104.31.14.163 br.spankbang.com
+104.31.14.163 se.spankbang.com
+104.31.15.163 it.spankbang.com
+192.99.63.181 cdnthumb3.spankbang.com
+104.31.15.163 pt.spankbang.com
+104.31.14.163 in.spankbang.com
+151.101.0.207 vjs.zencdn.net
+104.31.79.253 fronthub.com
+104.31.14.163 id.spankbang.com
+192.99.62.30 cdnthumb2.spankbang.com
+104.31.15.163 m.spankbang.com
+104.31.14.163 ru.spankbang.com
+104.31.14.163 de.spankbang.com
+104.31.15.163 pl.spankbang.com
+68.232.35.116 cdn.engine.phn.doublepimp.com
+151.101.0.207 vjs.zencdn.net
+104.31.79.253 fronthub.com
+
+[BUG] Pron.tv
+
+104.20.12.58 pron.tv
+
+[BUG] Sankakucomplex.com
+
+104.27.205.93 sankakucomplex.com www.sankakucomplex.com
+104.27.206.93 chan.sankakucomplex.com
+104.27.206.93 idol.sankakucomplex.com
+104.27.206.93 images.sankakucomplex.com
+208.100.47.75 data.sankakucomplex.com
+104.27.205.93 c.sankakucomplex.com
+104.27.205.93 charts.sankakucomplex.com
+208.100.47.75 extra.sankakucomplex.com
+```
+
 **v10** Added some sites
 - Bromo.com
 - Hentai2read.com
