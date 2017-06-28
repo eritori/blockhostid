@@ -71,8 +71,26 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Paheal.net
 - Pron.tv
 - Spankbang.com
+- Dmm.com
+- Dmm.co.jp
+- Javlibrary.com
 
 # Changelog
+**v12** Added some sites & Bug fix
+- Dmm.com
+- Dmm.co.jp
+- Javlibrary.com
+
+```
+Bux fixed
+
+103.254.145.213 pics.r18.com
+52.222.163.39 awspv3001.r18.com
+202.6.246.248 affiliate.r18.com
+66.6.33.22 blog.r18.com
+
+```
+
 **v11** Added some sites
 - Xvideos.com
 - Xnxx.com
