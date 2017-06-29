@@ -37,13 +37,13 @@
 151.101.53.140 m.reddit.com
 151.101.53.140 nm.reddit.com
 151.101.53.140 api.reddit.com
-23.235.39.143 i.vimeocdn.com
-107.162.132.45 developer.vimeo.com
-23.235.33.217 www.vimeo.com
-23.235.33.217 vimeo.com
-185.31.17.143 f.vimeocdn.com
+151.101.38.109 i.vimeocdn.com
+151.101.192.217 developer.vimeo.com
+151.101.128.217 www.vimeo.com
+151.101.128.217 vimeo.com
+151.101.38.109 f.vimeocdn.com
 184.50.168.24 secure-c.vimeocdn.com
-104.156.81.217 player.vimeo.com
+151.101.0.217 player.vimeo.com
 104.27.216.28 thepiratebay.org
 104.27.214.30 yts.ag
 79.124.59.206 hitomi.la
@@ -186,3 +186,7 @@
 202.6.246.29 www.dmm.co.jp
 104.28.12.52 javlibrary.com
 104.28.13.52 www.javlibrary.com
+92.222.110.68 yande.re
+5.39.10.56 files.yande.re
+92.222.110.68 assets.yande.re
+5.178.68.69 konachan.com
