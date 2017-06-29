@@ -74,6 +74,8 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Dmm.com
 - Dmm.co.jp
 - Javlibrary.com
+- Yande.re
+- Konachan.com
 
 # Changelog
 **v13** Added some sites & Bug fix
