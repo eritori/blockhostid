@@ -76,6 +76,23 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Javlibrary.com
 
 # Changelog
+**v13** Added some sites & Bug fix
+- Yande.re
+- Konachan.com
+
+```
+Bug fixed
+
+151.101.38.109 i.vimeocdn.com
+151.101.192.217 developer.vimeo.com
+151.101.128.217 www.vimeo.com
+151.101.128.217 vimeo.com
+151.101.38.109 f.vimeocdn.com
+184.50.168.24 secure-c.vimeocdn.com
+151.101.0.217 player.vimeo.com
+
+```
+
 **v12** Added some sites & Bug fix
 - Dmm.com
 - Dmm.co.jp
