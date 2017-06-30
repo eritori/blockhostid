@@ -93,6 +93,13 @@ Bug fixed
 184.50.168.24 secure-c.vimeocdn.com
 151.101.0.217 player.vimeo.com
 
+141.101.120.55 nhentai.net
+141.101.120.55 static.nhentai.net
+185.2.83.13 t.nhentai.net
+
+208.100.47.75 cs.sankakucomplex.com
+104.27.205.93 img.sankakucomplex.com
+
 ```
 
 **v12** Added some sites & Bug fix
