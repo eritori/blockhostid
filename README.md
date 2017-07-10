@@ -76,8 +76,25 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Javlibrary.com
 - Yande.re
 - Konachan.com
+- Tsumino.com
+- Porneq.com
+- Newgrounds.com
 
 # Changelog
+**v14** Added some sites
+- Tsumino.com
+- Porneq.com
+- Newgrounds.com
+
+```
+Bug found
+
+chan.sankakucomplex.com
+
+nhentai.net
+
+```
+
 **v13** Added some sites & Bug fix
 - Yande.re
 - Konachan.com
