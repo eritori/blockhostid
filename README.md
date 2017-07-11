@@ -79,19 +79,19 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Tsumino.com
 - Porneq.com
 - Newgrounds.com
+- Mofos.com
 
 # Changelog
 **v14** Added some sites
 - Tsumino.com
 - Porneq.com
 - Newgrounds.com
+- Mofos.com
 
 ```
 Bug found
 
 chan.sankakucomplex.com
-
-nhentai.net
 
 ```
 
