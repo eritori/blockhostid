@@ -34,7 +34,7 @@ File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka we
 
 ## Experimental
 
-*Versi eksperimental adalah khusus untuk pengguna ISP selain dari Telkom, cara menggunakannya sama dengan cara diatas, hanya saja perlu rename file menjadi "hosts" saja.
+Versi eksperimental adalah khusus untuk pengguna ISP selain dari Telkom, cara menggunakannya sama dengan cara diatas, hanya saja perlu rename file menjadi "hosts" saja.
 
 # Peringatan
 Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin request silahkan tulis di Issues, web dengan konten eksplisit berlebihan tidak akan saya kerjakan. Terima Kasih.
@@ -86,7 +86,7 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Mofos.com
 - Telegram.org
 
-**[EXPERIMENTAL]
+[EXPERIMENTAL]
 - Imgur.com
 - A-ads.com
 
