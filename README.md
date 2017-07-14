@@ -80,8 +80,23 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Porneq.com
 - Newgrounds.com
 - Mofos.com
+- Telegram.org
 
 # Changelog
+**v15** Added some sites & Bug fix
+- Telegram.org
+
+```
+Bug fixed
+
+151.101.193.140 e.reddit.com
+151.101.193.140 about.reddit.com
+54.208.254.144 out.reddit.com
+198.245.92.39 click.email.vimeo.com
+104.156.85.217 api.vimeo.com
+
+```
+
 **v14** Added some sites
 - Tsumino.com
 - Porneq.com
