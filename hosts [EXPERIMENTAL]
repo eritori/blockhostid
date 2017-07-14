@@ -1,0 +1,268 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+# Uploaded by apkcube in https://github.com/apkcube/blockhostid
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+119.81.2.142 kbagi.com www.kbagi.com
+119.81.2.139 i.kbagi.com
+119.81.2.141 s1.kbagi.com
+119.81.2.139 s2.kbagi.com
+119.81.2.140 s3.kbagi.com
+209.58.183.2 s200.kbagi.com
+209.58.183.3 s201.kbagi.com
+209.58.183.4 s202.kbagi.com
+209.58.183.5 s203.kbagi.com
+209.58.183.6 s204.kbagi.com
+209.58.183.7 s205.kbagi.com
+209.58.183.8 s206.kbagi.com
+209.58.183.9 s207.kbagi.com
+209.58.183.10 s208.kbagi.com
+209.58.183.1 s209.kbagi.com
+209.58.183.12 s210.kbagi.com
+209.58.183.13 s211.kbagi.com
+209.58.183.14 s212.kbagi.com
+209.58.183.15 s213.kbagi.com
+209.58.183.16 s214.kbagi.com
+209.58.183.17 s215.kbagi.com
+209.58.183.18 s216.kbagi.com
+209.58.183.19 s217.kbagi.com
+209.58.183.20 s218.kbagi.com
+209.58.183.21 s219.kbagi.com
+104.16.166.50 openload.co
+151.101.53.140 reddit.com
+151.101.53.140 www.reddit.com
+151.101.53.140 np.reddit.com
+151.101.53.140 bt.reddit.com
+151.101.53.140 m.reddit.com
+151.101.53.140 nm.reddit.com
+151.101.53.140 api.reddit.com
+151.101.38.109 i.vimeocdn.com
+151.101.192.217 developer.vimeo.com
+151.101.128.217 www.vimeo.com
+151.101.128.217 vimeo.com
+151.101.38.109 f.vimeocdn.com
+184.50.168.24 secure-c.vimeocdn.com
+151.101.0.217 player.vimeo.com
+104.27.216.28 thepiratebay.org
+104.27.214.30 yts.ag
+79.124.59.206 hitomi.la
+79.124.59.206 a.hitomi.la
+79.124.59.206 aa.hitomi.la
+79.124.59.206 atn.hitomi.la
+79.124.59.206 ba.hitomi.la
+79.124.59.206 btn.hitomi.la
+79.124.59.206 hitomi.la
+79.124.59.206 la.hitomi.la
+79.124.59.206 ltn.hitomi.la
+79.124.59.206 streaming.hitomi.la
+79.124.59.206 tn.hitomi.la
+141.101.120.54 nhentai.net
+5.178.68.100 gelbooru.com
+104.23.128.76 omegle.com
+104.23.128.76 www.omegle.com
+185.37.100.122 rarbg.to
+104.27.208.30 eztv.ag
+104.23.204.30 isohunt.to
+104.16.117.221 4chan.org
+104.16.117.221 www.4chan.org
+104.16.116.221 boards.4chan.org
+104.16.116.221 img.4chan.org
+104.16.118.221 rs.4chan.org
+104.16.119.221 orz.4chan.org
+104.16.116.221 static.4chan.org
+104.16.116.221 img.4chan.org
+104.16.116.221 cgi.4chan.org
+104.16.117.221 dis.4chan.org
+163.172.71.176 hentaihaven.org www.hentaihaven.org
+31.192.120.36 pornhub.com www.pornhub.com
+104.31.90.62 tbib.org
+88.208.29.24 xhamster.com
+104.25.218.15 javfor.me
+104.24.125.127 javfind.com
+104.28.4.81 bejav.net
+89.248.169.70 akiba-online.com www.akiba-online.com
+202.6.246.238 www.r18.com
+202.6.246.238 r18.com
+67.202.114.133 danbooru.donmai.us
+94.199.249.240 bromo.com www.bromo.com
+104.20.62.168 hentai2read.com
+104.25.190.118 vipergirls.to
+104.20.209.29 fakku.net www.fakku.net
+104.20.208.29 t.fakku.net
+66.6.32.22 tumblr.fakku.net
+23.227.38.64 store.fakku.net
+104.24.255.11 e-hentai.org
+94.100.18.243 forums.e-hentai.org
+209.197.3.84 static-hw.xvideos.com
+141.0.168.72 info.xvideos.com
+141.0.173.174 multi.xnxx.com
+185.88.181.11 xvideos.com
+68.232.34.19 img-egc.xvideos.com
+185.88.181.12 www.xvideos.com
+185.88.181.13 upload.xvideos.com
+208.97.151.195 paheal.net
+5.79.80.150 rule34.paheal.net
+185.88.181.60 account.xnxx.com
+141.0.173.91 games.xnxx.com
+185.88.181.58 www.xnxx.com
+185.88.181.50 forum.xnxx.com
+185.88.181.58 xnxx.com
+141.0.172.211 stories.xnxx.com
+205.185.208.154 s9v7j7a4.ssl.hwcdn.net
+104.27.205.93 sankakucomplex.com www.sankakucomplex.com
+104.27.206.93 chan.sankakucomplex.com
+104.27.206.93 idol.sankakucomplex.com
+104.27.206.93 images.sankakucomplex.com
+208.100.47.75 data.sankakucomplex.com
+104.27.205.93 c.sankakucomplex.com
+104.27.205.93 charts.sankakucomplex.com
+208.100.47.75 extra.sankakucomplex.com
+104.31.15.163 th.spankbang.com
+104.31.15.163 static.spankbang.com
+104.31.15.163 nl.spankbang.com
+104.31.14.163 fr.spankbang.com
+104.31.15.163 jp.spankbang.com
+104.31.15.163 ms.spankbang.com
+104.31.15.163 la.spankbang.com
+104.31.14.163 es.spankbang.com
+192.99.63.182 cdnthumb.spankbang.com
+104.31.14.163 spankbang.com
+104.31.15.163 tr.spankbang.com
+104.31.14.163 br.spankbang.com
+104.31.14.163 se.spankbang.com
+104.31.15.163 it.spankbang.com
+192.99.63.181 cdnthumb3.spankbang.com
+104.31.15.163 pt.spankbang.com
+104.31.14.163 in.spankbang.com
+151.101.0.207 vjs.zencdn.net
+104.31.79.253 fronthub.com
+104.31.14.163 id.spankbang.com
+192.99.62.30 cdnthumb2.spankbang.com
+104.31.15.163 m.spankbang.com
+104.31.14.163 ru.spankbang.com
+104.31.14.163 de.spankbang.com
+104.31.15.163 pl.spankbang.com
+68.232.35.116 cdn.engine.phn.doublepimp.com
+151.101.0.207 vjs.zencdn.net
+104.31.79.253 fronthub.com
+104.20.12.58 pron.tv
+103.254.145.213 pics.r18.com
+52.222.163.39 awspv3001.r18.com
+202.6.246.248 affiliate.r18.com
+66.6.33.22 blog.r18.com
+103.254.144.94 stat.i3.dmm.com
+202.6.247.84 mvno.dmm.com
+203.209.151.65 akiba.dmm-make.com
+203.209.146.206 affiliate.dmm.com
+103.254.146.66 book.dmm.com
+148.251.158.116 display.dmm.com
+202.6.247.195 dlsoft.dmm.com
+103.254.146.44 yell.dmm.com
+202.6.247.168 chariloto.dmm.com
+203.209.146.79 recruit.dmm.com
+157.112.85.174 www.dmm.com
+203.209.151.110 make.dmm.com
+202.6.247.179 help.dmm.com
+203.209.151.42 media.dmm-make.com
+103.254.146.118 event.dmm.com
+103.254.144.35 make-cs.dmm.com
+202.6.246.222 ad.dmm.com
+202.6.245.122 pics.dmm.com
+203.180.216.234 fx.dmm.com
+203.209.152.98 dmm.com
+43.255.40.113 p-town.dmm.com
+202.6.245.93 pics.dmm.co.jp
+43.255.42.79 vr-theater.dmm.com
+202.6.245.205 kouenirai.dmm.com
+202.6.245.128 lounge.dmm.com
+202.6.245.122 p.dmm.com
+103.254.145.236 robots.dmm.com
+103.254.146.85 eikaiwa.dmm.com
+203.209.147.170 mobile.dmm.com
+203.209.152.60 dmm.co.jp
+43.255.42.131 okan.dmm.com
+43.255.42.71 hikari.dmm.com
+202.6.246.29 www.dmm.co.jp
+104.28.12.52 javlibrary.com
+104.28.13.52 www.javlibrary.com
+92.222.110.68 yande.re
+5.39.10.56 files.yande.re
+92.222.110.68 assets.yande.re
+5.178.68.69 konachan.com
+141.101.120.55 nhentai.net
+141.101.120.55 static.nhentai.net
+185.2.83.13 t.nhentai.net
+208.100.47.75 cs.sankakucomplex.com
+104.27.205.93 img.sankakucomplex.com
+104.28.20.226 tsumino.com
+104.28.21.226 www.tsumino.com
+163.172.85.31 porneq.com
+104.20.58.153 speedosausage.newgrounds.com
+104.20.58.153 johnopotamus.newgrounds.com
+104.20.59.153 boonebum.newgrounds.com
+104.20.29.55 newgrounds.com
+104.20.59.153 seethingswarm.newgrounds.com
+104.20.58.153 stardoge.newgrounds.com
+104.20.58.153 chadwiggy.newgrounds.com
+104.20.28.55 www.newgrounds.com
+104.20.58.153 theenkian.newgrounds.com
+104.20.58.153 rykeo.newgrounds.com
+104.20.59.153 phonometrologist.newgrounds.com
+104.20.58.153 petersatera.newgrounds.com
+104.20.58.153 khonjin.newgrounds.com
+104.20.59.153 aope.newgrounds.com
+104.20.59.153 soundchris.newgrounds.com
+104.20.58.153 heretik.newgrounds.com
+104.20.58.153 mjttomb.newgrounds.com
+104.20.59.153 bertn1991.newgrounds.com
+216.18.168.90 members2.mofos.com
+66.254.112.121 mofos.com
+64.210.135.70 static.mofos.com
+216.18.168.88 www.mofos.com
+66.254.112.121 enter.mofos.com
+151.101.193.140 e.reddit.com
+151.101.193.140 about.reddit.com
+54.208.254.144 out.reddit.com
+149.154.167.99	telegram.org
+149.154.167.99	desktop.telegram.org
+149.154.167.99	core.telegram.org
+149.154.167.99	macos.telegram.org
+149.154.167.120	web.telegram.org
+149.154.167.57	venus.web.telegram.org
+149.154.175.16	pluto.web.telegram.org
+149.154.175.16	pluto-1.web.telegram.org
+149.154.167.24	venus.web.telegram.org
+149.154.167.24	venus-1.web.telegram.org
+149.154.175.115	aurora.web.telegram.org
+149.154.175.115	aurora-1.web.telegram.org
+149.154.167.124	vesta.web.telegram.org
+149.154.167.124	vesta-1.web.telegram.org
+149.154.171.22	flora.web.telegram.org
+149.154.171.22 flora-1.web.telegram.org
+198.245.92.39 click.email.vimeo.com
+104.156.85.217 api.vimeo.com
+151.101.100.193	imgur.com
+151.101.100.193	m.imgur.com
+151.101.100.193	api.imgur.com
+151.101.100.193	www.imgur.com
+151.101.100.193	store.imgur.com
+151.101.100.193	s.imgur.com
+151.101.100.193	p.imgur.com
+151.101.100.193 i.imgur.com
+104.25.250.34 a-ads.com
