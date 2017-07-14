@@ -32,6 +32,10 @@ Restart hp.
 
 File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka website yang ada di daftar.
 
+## Experimental
+
+*Versi eksperimental adalah khusus untuk pengguna ISP selain dari Telkom, cara menggunakannya sama dengan cara diatas, hanya saja perlu rename file menjadi "hosts" saja.
+
 # Peringatan
 Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin request silahkan tulis di Issues, web dengan konten eksplisit berlebihan tidak akan saya kerjakan. Terima Kasih.
 
@@ -82,6 +86,10 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Mofos.com
 - Telegram.org
 
+**[EXPERIMENTAL]
+- Imgur.com
+- A-ads.com
+
 # Changelog
 **v15** Added some sites & Bug fix
 - Telegram.org
@@ -94,6 +102,8 @@ Bug fixed
 54.208.254.144 out.reddit.com
 198.245.92.39 click.email.vimeo.com
 104.156.85.217 api.vimeo.com
+
+Added experimental version
 
 ```
 
