@@ -85,6 +85,8 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Newgrounds.com
 - Mofos.com
 - Telegram.org
+- Telegram.me
+- T.me
 
 *[EXPERIMENTAL]*
 - Imgur.com
@@ -93,6 +95,8 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 # Changelog
 **v15** Added some sites & Bug fix
 - Telegram.org
+- Telegram.me
+- T.me
 
 *[EXPERIMENTAL]*
 - Imgur.com
