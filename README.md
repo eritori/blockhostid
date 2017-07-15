@@ -94,6 +94,10 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 **v15** Added some sites & Bug fix
 - Telegram.org
 
+*[EXPERIMENTAL]*
+- Imgur.com
+- A-ads.com
+
 ```
 Bug fixed
 
@@ -102,6 +106,9 @@ Bug fixed
 54.208.254.144 out.reddit.com
 198.245.92.39 click.email.vimeo.com
 104.156.85.217 api.vimeo.com
+
+149.154.167.118 web.telegram.me
+149.154.167.118 telegram.me
 
 Added experimental version
 
