@@ -12,7 +12,7 @@ Copy file hosts ke C:/Windows/System32/drivers/etc kemudian replace.
 
 ### Cara Mudah
 
-Drag file hosts ke "Paste hosts file here" lalu kemudian replace.
+Drag file hosts ke "Drag file hosts kesini.lnk" lalu kemudian replace.
 
 File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka website yang ada di daftar.
 
