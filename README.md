@@ -107,8 +107,12 @@ Bug fixed
 198.245.92.39 click.email.vimeo.com
 104.156.85.217 api.vimeo.com
 
+Added line string
+
 149.154.167.118 web.telegram.me
 149.154.167.118 telegram.me
+149.154.167.118 ipv6.telegram.me
+149.154.167.118 t.me
 
 Added experimental version
 
