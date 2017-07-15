@@ -1,0 +1,35 @@
+==Cara Install==
+
+=PC=
+
+.Cara Sulit.
+
+Copy file hosts ke C:/Windows/System32/drivers/etc kemudian replace.
+
+.Cara Mudah.
+
+Drag file hosts ke "Drag file hosts kesini.lnk" lalu kemudian replace.
+
+File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka website yang ada di daftar.
+
+
+=Android=
+
+*Root Only*
+
+Rename file hosts (Android) menjadi hosts saja.
+
+Kemudian copy file.
+
+Buka folder /etc dan paste.
+
+Akan ada peringatan replace, pilih replace.
+
+Restart hp.
+
+File hosts telah berhasil diinstall, silahkan cek sendiri dengan cara membuka website yang ada di daftar.
+
+
+=Experimental=
+
+Versi experimental adalah versi khusus untuk pengguna ISP selain dari Telkom, cara menggunakannya sama dengan cara diatas, hanya saja perlu rename file menjadi "hosts" saja.
