@@ -32,7 +32,6 @@
 104.16.164.50 api.openload.co
 104.16.164.50 support.openload.co
 
-
 [REDDIT.COM]
 151.101.53.140 reddit.com
 151.101.53.140 www.reddit.com
