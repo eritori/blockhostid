@@ -87,12 +87,25 @@ Script ini masih dalam tahap pengembangan, jika terdapat error atau ingin reques
 - Telegram.org
 - Telegram.me
 - T.me
+- Mangafox.me
+- Mangapanda.com
 
 *[EXPERIMENTAL]*
 - Imgur.com
 - A-ads.com
 
 # Changelog
+**v16** Added some sites & Bug fix
+- Mangafox.me
+- Mangapanda.com
+
+```
+Raw updated
+
+Openload.co bugs fixed
+
+```
+
 **v15** Added some sites & Bug fix
 - Telegram.org
 - Telegram.me
