@@ -1,5 +1,10 @@
-149.154.167.118 web.telegram.me
-149.154.167.118 telegram.me
-
-149.154.167.118 ipv6.telegram.me
-149.154.167.118 t.me
+104.20.162.10 s5.mangapanda.com
+185.86.164.130 mangapanda.com
+104.20.162.10 s1.mangapanda.com
+104.20.163.10 s4.mangapanda.com
+185.86.164.130 www.mangapanda.com
+104.20.163.10 s3.mangapanda.com
+185.4.227.115 mangafox.me
+176.53.21.90 www.mangafox.me
+185.4.227.118 m.mangafox.me
+178.18.205.254 forums.mangafox.me
