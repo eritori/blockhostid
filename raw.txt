@@ -27,6 +27,11 @@
 
 [OPENLOAD.CO]
 104.16.166.50 openload.co
+104.16.165.50 t1.openload.co
+104.16.164.50 tt1.openload.co
+104.16.164.50 api.openload.co
+104.16.164.50 support.openload.co
+
 
 [REDDIT.COM]
 151.101.53.140 reddit.com
@@ -78,6 +83,7 @@
 
 [GELBOORU.COM]
 5.178.68.100 gelbooru.com
+5.178.68.100 www.gelbooru.com
 
 [OMEGLE.COM]
 104.23.128.76 omegle.com
@@ -191,6 +197,10 @@
 208.100.47.75 extra.sankakucomplex.com
 208.100.47.75 cs.sankakucomplex.com
 104.27.205.93 img.sankakucomplex.com
+104.27.205.93 i.sankakucomplex.com
+104.27.205.93 img4.sankakucomplex.com
+104.27.205.93 img3.sankakucomplex.com
+104.27.206.93 is.sankakucomplex.com
 
 [SPANKBANG.COM]
 104.31.15.163 th.spankbang.com
